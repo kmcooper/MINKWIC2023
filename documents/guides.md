@@ -8,13 +8,25 @@ This is a curated list of resources you can use to help build and enhance your r
 4. [https://learngitbranching.js.org/](https://learngitbranching.js.org/)
 
 ## Markdown
+1. My Favorite Cheat Sheet: [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)
+2. [https://www.markdownguide.org/](https://www.markdownguide.org/)
+3. [https://www.markdowntutorial.com/](https://www.markdowntutorial.com/)
+4. [GitHub's Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## Licensing
 **Every single project** should have a license. Choose your own with [www.choosealisence.com](www.choosealisence.com)
 Other resources:
+   1. [https://creativecommons.org/share-your-work/](https://creativecommons.org/share-your-work/)
+   2. [https://www.codecademy.com/article/choosing-an-open-source-license](https://www.codecademy.com/article/choosing-an-open-source-license)
 
 
 ## Documenting and Commenting your Code
+Python:
+   1. [Python Style Guide - PEP8](https://peps.python.org/pep-0008/)
+   2. [pycodestyle](https://pypi.org/project/pycodestyle/)
+   3. [Writing Comments in Python](https://realpython.com/python-comments-guide/)
+   4. [Documenting Python Code: A Real Guide](https://realpython.com/documenting-python-code/)
+   5. [The Hitchhiker's Guide to Python: Documentation](https://docs.python-guide.org/writing/documentation/)
 
 ## Writing Commit Messages
    
