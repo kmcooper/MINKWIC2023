@@ -19,4 +19,4 @@ Sometimes it is easier to grab a template for a repository and use it to build y
 
 ### How can users get started with the project?
 If you would like to make a copy of this repository for yourself, make a GitHub account and then log in. Then navigate to this GitHub repository (you're looking at it!) and click "Fork" in the top right corner:
-
+![Click the button in the top right corner that says Fork](https://github.com/kmcooper/MINKWIC2023/blob/main/images/github_fork.png)
