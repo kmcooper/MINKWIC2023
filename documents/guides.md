@@ -29,4 +29,5 @@ Python:
    5. [The Hitchhiker's Guide to Python: Documentation](https://docs.python-guide.org/writing/documentation/)
 
 ## Writing Commit Messages
+1. [Write Better Commits, Build Better Projects](https://github.blog/2022-06-30-write-better-commits-build-better-projects/)
    
