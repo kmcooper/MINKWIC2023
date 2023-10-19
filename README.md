@@ -18,4 +18,5 @@ This is a demon code repository for MINK WIC 2023 attendees to use to build thei
 Sometimes it is easier to grab a template for a repository and use it to build your project instead of starting from scratch. This can be your template.
 
 ## How can users get started with the project?
-If you would like to make a copy of this repository for yourself, make a GitHub account and then log in. Then navigate to this GitHub repository (you're looking at it!) and click 
+If you would like to make a copy of this repository for yourself, make a GitHub account and then log in. Then navigate to this GitHub repository (you're looking at it!) and click "Fork" in the top right corner:
+
