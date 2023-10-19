@@ -12,7 +12,7 @@ This file is called a README, which is why its named README.md. It is usually yo
 Let's use that as a guideline for this README page!
 
 ### What does this project do?
-This is a demon code repository for MINK WIC 2023 attendees to use to build their first GitHub repo.
+This is a demo code repository for MINK WIC 2023 attendees to use to build their first GitHub repo.
 
 ### Why is the project useful?
 Sometimes it is easier to grab a template for a repository and use it to build your project instead of starting from scratch. This can be your template.
