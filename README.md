@@ -17,8 +17,9 @@ This is a demo code repository for MINK WIC 2023 attendees to use to build their
 ## Getting Started
 For more information on how to copy this repository into your own account, click here: [Getting Started](https://github.com/kmcooper/MINKWIC2023/blob/main/documents/getting_started.md)
 
+  
 ## Need Help?
-This project will be presented as a workshop at MINK WIC 2023 - find me there!
+This project will be presented as a workshop at MINK WIC 2023 - find me there!  
 
 ### Contributors
 Me, [Kate Cooper](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/kate-cooper.php).
