@@ -17,8 +17,11 @@ This is a demo code repository for MINK WIC 2023 attendees to use to build their
 ## Getting Started
 For more information on how to copy this repository into your own account, click here: [Getting Started](no linky )
 
-## Where users can get help with your project?
+## Need Help?
 This project will be presented as a workshop at MINK WIC 2023 - find me there!
 
-### Who maintains and contributes to the project?
+### Contributors
 Me, [Kate Cooper](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/kate-cooper.php).
+
+### License
+**Every single project** should have a license. Choose your own with [www.choosealisence.org](www.choosealisence.org)
