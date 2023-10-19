@@ -1,5 +1,5 @@
 # MINKWIC2023
-This is a demon code repository for MINK WIC 2023 attendees to use to build their first GitHub repo.
+This is a demo code repository for MINK WIC 2023 attendees to use to build their first GitHub repo.
 
 # Information
 This file is called a README, which is why its named README.md. Here is a great description from [GitHub](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes):  
