@@ -24,4 +24,4 @@ This project will be presented as a workshop at MINK WIC 2023 - find me there!
 Me, [Kate Cooper](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/kate-cooper.php).
 
 ### License
-**Every single project** should have a license. Choose your own with [www.choosealisence.org](www.choosealisence.org)
+**Every single project** should have a license. Choose your own with [www.choosealisence.com](www.choosealisence.com)
