@@ -10,6 +10,9 @@ This is a curated list of resources you can use to help build and enhance your r
 ## Markdown
 
 ## Licensing
+**Every single project** should have a license. Choose your own with [www.choosealisence.com](www.choosealisence.com)
+Other resources:
+
 
 ## Documenting and Commenting your Code
 
