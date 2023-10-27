@@ -28,16 +28,8 @@ Create a new Markdown file and see if you can replicate mine: [can_you_replicate
 ### Showcasing your Code
 Examples of code are included on this page: 
 
-### Examples of Nice GitHub Repos
-See below:
-  1. **Microbiome**: The biobakery for microbial analysis. Example: [Phylophan](https://github.com/biobakery/phylophlan)
-  2. **Machine Learning**: [TensorFlow](https://github.com/tensorflow/tensorflow)
-  3. **Math/Science Python Libraries**: [SciPy](https://github.com/scipy/scipy)
-  4. **Learning/Enhacing your Coding Abilities**: [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-  5. **Coding Interview Resources**: [Coding Interview University](https://github.com/jwasham/coding-interview-university)
-  
-## Need Help?
-This project will be presented as a workshop at MINK WIC 2023 - find me there!  
+### Resources
+Check out [this page]() for more resources on excellent GitHub resources you can check out for examples as well as other tutorials and style guides.
 
 ### Contributors + Contact
 Me, [Kate Cooper](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/kate-cooper.php).
