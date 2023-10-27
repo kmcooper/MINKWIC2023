@@ -25,6 +25,7 @@ Create a new Markdown file and see if you can replicate [mine.](documents/can_yo
 ### Showcasing your Code
 Examples of scripts are given below:
  - [helloWorld.py](scripts/helloWorld.py)
+ - [improve_this_script.py](improve_this_script.py)
 
 ### Resources
 Check out [this page](documents/guides.md) for more resources on excellent GitHub resources you can check out for examples as well as other tutorials and style guides.
