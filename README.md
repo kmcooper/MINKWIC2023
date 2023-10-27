@@ -20,7 +20,7 @@ For more information on how to copy this repository into your own account, click
 Once you have forked the repo, try to see if you can make your own Markdown file that matches mine _without_ looking at the Markdown code!
 
 ### Try to Replicate my Markdown File
-Create a new Markdown file and see if you can replicate mine: [can_you_replicate.md](documents/can_you_replicate.md)
+Create a new Markdown file and see if you can replicate [mine.](documents/can_you_replicate.md)
 
 ### Showcasing your Code
 Examples of code are included on this page: 
