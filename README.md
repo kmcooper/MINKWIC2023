@@ -9,6 +9,7 @@ This file is called a README, which is why its named README.md. It is usually yo
 >  - How users can get started with the project
 >  - Where users can get help with your project
 >  - Who maintains and contributes to the project"
+  
 A README file also typically includes a **changelog** documenting changes to the project over time, such as between releases of new versions.
 
 Let's use that as a guideline for this README page! 
