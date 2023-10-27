@@ -20,6 +20,7 @@ This is a demo code repository for MINK WIC 2023 attendees to use to build their
 ## Getting Started
 #### How to Copy this Repository
 For more information on how to copy this repository into your own account, click here: [Getting Started](https://github.com/kmcooper/MINKWIC2023/blob/main/documents/getting_started.md)
+Once you have forked the repo, try to see if you can make your own Markdown file that matches mine _without_ looking at the Markdown code!
 
 ### Showcasing your Code
 Examples of code are included on this page: 
