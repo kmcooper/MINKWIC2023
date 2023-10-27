@@ -23,7 +23,8 @@ Once you have forked the repo, try to see if you can make your own Markdown file
 Create a new Markdown file and see if you can replicate [mine.](documents/can_you_replicate.md)
 
 ### Showcasing your Code
-Examples of code are included on this page: 
+Examples of scripts are given below:
+ - [helloWorld.py](scripts/helloWorld.py)
 
 ### Resources
 Check out [this page](documents/guides.md) for more resources on excellent GitHub resources you can check out for examples as well as other tutorials and style guides.
