@@ -32,6 +32,8 @@ Check out [this page](documents/guides.md) for more resources on excellent GitHu
 Me, [Kate Cooper](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/kate-cooper.php).
 Contact me if you would like to contribute to this repo.
 
+    
+
 # License
 This project is licensed using [GNU General Public License v2.0](https://github.com/kmcooper/MINKWIC2023/blob/main/LICENSE).  
 **Every single project** should have a license. Choose your own with [www.choosealisence.com](www.choosealisence.com)
