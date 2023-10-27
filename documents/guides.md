@@ -1,5 +1,5 @@
 # Guides and Resources
-This is a curated list of resources you can use to help build and enhance your repository
+This is a curated list of resources you can use to help build and enhance your repository.
 
 ## Git and GitHub
 1. [https://www.codecademy.com/learn/learn-git](https://www.codecademy.com/learn/learn-git)
@@ -19,7 +19,6 @@ Other resources:
    1. [https://creativecommons.org/share-your-work/](https://creativecommons.org/share-your-work/)
    2. [https://www.codecademy.com/article/choosing-an-open-source-license](https://www.codecademy.com/article/choosing-an-open-source-license)
 
-
 ## Documenting and Commenting your Code
 Python:
    1. [Python Style Guide - PEP8](https://peps.python.org/pep-0008/)
@@ -31,3 +30,10 @@ Python:
 ## Writing Commit Messages
 1. [Write Better Commits, Build Better Projects](https://github.blog/2022-06-30-write-better-commits-build-better-projects/)
    
+## Examples of Nice GitHub Repos
+See below:
+  1. **Microbiome**: The biobakery for microbial analysis. Example: [Phylophan](https://github.com/biobakery/phylophlan)
+  2. **Machine Learning**: [TensorFlow](https://github.com/tensorflow/tensorflow)
+  3. **Math/Science Python Libraries**: [SciPy](https://github.com/scipy/scipy)
+  4. **Learning/Enhacing your Coding Abilities**: [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+  5. **Coding Interview Resources**: [Coding Interview University](https://github.com/jwasham/coding-interview-university)
