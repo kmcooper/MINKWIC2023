@@ -29,6 +29,7 @@ Examples of scripts are given below:
 
 ### Resources
 Check out [this page](documents/guides.md) for more resources on excellent GitHub resources you can check out for examples as well as other tutorials and style guides.
+You can download the slides from todays workshop at this link: 
 
 ### Contributors + Contact
 Me, [Kate Cooper](https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/kate-cooper.php).
